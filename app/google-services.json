@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "412280754052",
+    "project_id": "amber-ngo",
+    "storage_bucket": "amber-ngo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412280754052:android:c5abaa46bd7c8ca99717d1",
+        "android_client_info": {
+          "package_name": "com.ngoamber.amberngo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412280754052-o6m5horavbkqkdi5724s65mp1eed09gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ngoamber.amberngo",
+            "certificate_hash": "2f66d01e3af7974f0a73e15a2c34e39093d7a331"
+          }
+        },
+        {
+          "client_id": "412280754052-cut1m7u37l8h863c11u22nqu8rh6hac9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGW0GsLVQANy1dLlJoeAOvsf9BJB8YaSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412280754052-cut1m7u37l8h863c11u22nqu8rh6hac9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

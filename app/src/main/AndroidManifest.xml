@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ngoamber.amberngo">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/amber_ngo_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/amber_ngo_icon_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Get_HCMActivity"></activity>
+        <activity android:name=".GetHospitalsActivity" />
+        <activity android:name=".Create_HCMActivity" />
+        <activity android:name=".Get_HCActivity" />
+        <activity android:name=".Create_HealthcardActivity" />
+        <activity android:name=".HC_OwnersActivity" />
+        <activity android:name=".HC_MakersActivity" />
+        <activity android:name=".FoundersActivity" />
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+</manifest>

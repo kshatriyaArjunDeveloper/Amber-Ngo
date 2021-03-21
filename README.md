@@ -2,7 +2,7 @@
 
 > An Android App for [Amber Ngo](https://ngoamber.in/)
 > 
-> This is my first my freelance project and my first app which I build for someone rather than just for learning prupose.
+> This is my first my freelance project and my first app which I build for someone rather than just for learning purpose.
 
 
 

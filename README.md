@@ -1,13 +1,9 @@
-#  **AMBER NGO**
+<p align="center"><a href="https://ngoamber.in/"><img src="app/src/main/amber_ngo_icon-web.png" width="150"></a></p>
+<h2 align="center"><b>AMBER NGO</b></h2>
+<h4 align="center">This is my first my freelance project and my first app which I build for someone rather than just for learning purpose.</h4>
 
-> An Android App for [Amber Ngo](https://ngoamber.in/)
-> 
-> This is my first my freelance project and my first app which I build for someone rather than just for learning purpose.
-
-
-
-
-# Features
+# Why Amber Ngo App ?
+This app was developed to make the whole process of making health cards for family digital and centralized giving easy access to every type of user for their own purpose.
 
 This app will behave differently for 3 levels of users:
 
@@ -28,7 +24,9 @@ This app will behave differently for 3 levels of users:
  - Can create,revoke and get details of healthcard maker account
  - Can give credits so that healthcard maker can make more healthcards
  - Can create,revoke and get details of healthcard owner account
-- Can add hospitals info to the database
+ - Can add hospitals info to the database
+
+### Screenshots and Videos
 
 ![]( https://media.giphy.com/media/MJ7vpKZHedXmSBbkQF/giphy.gif
 )
@@ -53,10 +51,10 @@ This app will behave differently for 3 levels of users:
 ![](https://media.giphy.com/media/JUXbmhDBtl6uf15KAZ/giphy.gif)
 
 
-# Tech Used
+# Tech Stack
 
  - Firebase Authentication
  - Firestore Database
  - Firebase Storage
  - Material Design
- -  Recycler View
+ - Recycler View

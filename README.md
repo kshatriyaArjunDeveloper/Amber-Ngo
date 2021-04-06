@@ -48,5 +48,6 @@ This app will behave differently for 3 levels of users:
  - Firebase Authentication
  - Firestore Database
  - Firebase Storage
+ - Glide
  - Material Design
  - Recycler View

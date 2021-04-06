@@ -28,30 +28,20 @@ This app will behave differently for 3 levels of users:
  - Can create,revoke and get details of healthcard owner account
  - Can add hospitals info to the database
 
-### Screenshots and Videos
-
-![]( https://media.giphy.com/media/MJ7vpKZHedXmSBbkQF/giphy.gif
-)
-
-![]( https://media.giphy.com/media/047XLox4hmUDpFmOzO/giphy.gif
-)
-
-![]( https://media.giphy.com/media/5MbbsNOosuWPoOTdA2/giphy.gif
-)
-
+<img src="https://media.giphy.com/media/MJ7vpKZHedXmSBbkQF/giphy.gif" width="100%" >
+<img src="https://media.giphy.com/media/047XLox4hmUDpFmOzO/giphy.gif" width="100%" >
+<img src="https://media.giphy.com/media/5MbbsNOosuWPoOTdA2/giphy.gif" width="100%" >
 
 ## Healthcard Maker Version
  - Can only create others healthcard
 
-  ![](https://media.giphy.com/media/SIIZ7oUDwW1pndUrb7/giphy.gif
-)
+<img  src="https://media.giphy.com/media/SIIZ7oUDwW1pndUrb7/giphy.gif" width="100%" >
 
 ## Healtcard Owner Version
 
  - Can sign in the app using phone number and can access their Health Card
 
-![](https://media.giphy.com/media/JUXbmhDBtl6uf15KAZ/giphy.gif)
-
+<img  src="https://media.giphy.com/media/JUXbmhDBtl6uf15KAZ/giphy.gif" width="100%" >
 
 # Tech Stack
 
